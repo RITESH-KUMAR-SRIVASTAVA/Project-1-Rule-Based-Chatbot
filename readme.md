@@ -78,9 +78,4 @@ This project can be extended by adding:
 - GUI-based chatbot interface
 
 ## Author
-
-Created by Ritesh Srivastava.
-
-## License
-
-This project is open for educational and personal use.
+RITESH KUMAR SRIVASTAVA
